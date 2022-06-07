@@ -5,6 +5,8 @@ We first preprocess the audio files and plot their waveforms and log mel spectro
 
 Libraries used - Numpy, Pandas, Scikit, Tensorflow, Keras, Librosa
 
+The dataset used for this project is RAVDESS Dataset which can be downloaded from here https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
+
 Few samples of log mel spectrogram plots-
 
 ![MelSpec_FemaleSurprised](https://user-images.githubusercontent.com/84060696/172302426-331740b1-0237-4636-a281-e24ce3b4439b.png)   ![MelSpec_FemaleSad](https://user-images.githubusercontent.com/84060696/172302499-ec654304-9614-447f-9648-3f086216761a.png)
